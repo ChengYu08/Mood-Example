@@ -1,4 +1,4 @@
-package com.example.moodexample
+package com.app.moodexample
 
 import io.dcloud.common.adapter.util.Logger
 import androidx.annotation.NonNull;

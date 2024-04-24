@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.moodexample">
+    package="com.app.moodexample">
 
     <!-- 震动 begin-->
     <uses-permission android:name="android.permission.VIBRATE"/>
